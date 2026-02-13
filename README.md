@@ -1,5 +1,3 @@
-# danda-optimizer
-info all optimizer
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
@@ -276,4 +274,102 @@ info all optimizer
         </div>
     </footer>
 </body>
-</html>
+</html>        <li>OPTIMIZER ini bukan FPS BOOSTER!! Hasil yang didapat berbeda pada setiap laptop/PC, tergantung spesifikasi, kondisi sistem, dan game yang dimainkan. OPTIMIZER ini berfokus pada optimasi sistem dan stabilitas performa, bukan menjanjikan FPS tinggi secara instan. Kalau sama aja berarti performa maksimal hardwarenya segitu aja (Tetap ada potensi fps naik tergantung spek dan kondisi sebelumnya).</li>
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- Fitur & Harga Section (Updated) -->
+    <section id="fitur-harga" class="py-20 px-4 md:px-8 bg-gray-800 border-t border-gray-700">
+        <div class="container mx-auto max-w-5xl">
+            <h2 class="text-4xl font-bold text-neon-green section-header text-center mb-12">
+                <i class="fas fa-cogs mr-3"></i> PAKET OPTIMASI & HARGA
+            </h2>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Paket Full Optimize (Rp 45.000) -->
+                <div class="card text-center transform hover:scale-105 transition-transform duration-300 border-neon-green">
+                    <i class="fas fa-rocket text-5xl text-neon-green mb-4"></i>
+                    <h3 class="text-2xl font-bold text-gray-100 mb-3">Full Optimize (Maximal)</h3>
+                    <p class="text-gray-400 mb-4">Paket optimasi terlengkap untuk performa puncak.</p>
+                    <ul class="text-gray-300 text-left list-disc list-inside mb-6 space-y-1">
+                        <li>Bisa di semua spek PC/Laptop</li>
+                        <li>Tidak perlu instal ulang Windows</li>
+                        <li>Bisa untuk Windows Original/Oprek</li>
+                        <li>Boost FPS semua game</li>
+                        <li>Clear semua temporary files</li>
+                        <li>Super Optimize Regedit Tweaks</li>
+                        <li>Optimize CPU, GPU, RAM</li>
+                        <li>Dapat menstabilkan FPS</li>
+                        <li>Dijamin FPS nambah dari sebelumnya</li>
+                    </ul>
+                    <div class="text-4xl font-bold text-neon-green mb-4">Rp 45.000</div>
+                    <a href="https://wa.me/62895329285854" target="_blank" class="btn-neon px-6 py-2 rounded-full font-bold">Beli Sekarang</a>
+                </div>
+                <!-- Paket Optimize Via Remote (Rp 30.000) -->
+                <div class="card text-center transform hover:scale-105 transition-transform duration-300">
+                    <i class="fas fa-ethernet text-5xl text-neon-green mb-4"></i>
+                    <h3 class="text-2xl font-bold text-gray-100 mb-3">Optimize Via Remote</h3>
+                    <p class="text-gray-400 mb-4">Optimasi mudah dan cepat melalui remote desktop.</p>
+                    <ul class="text-gray-300 text-left list-disc list-inside mb-6 space-y-1">
+                        <li>Bisa di semua spek PC/Laptop</li>
+                        <li>Pengerjaan mudah dan cepat</li>
+                        <li>Tidak perlu instal ulang Windows</li>
+                        <li>Bisa untuk Windows Original Microsoft</li>
+                        <li>Boost FPS semua game (Termasuk Emulator FF)</li>
+                        <li>Clear semua temporary files</li>
+                        <li>Reduce Windows Desktop Latency</li>
+                        <li>Super Optimize Regedit Tweaks</li>
+                        <li>Optimize CPU, RAM, GPU</li>
+                        <li>Ultimate Performance Mode ON</li>
+                    </ul>
+                    <div class="text-4xl font-bold text-neon-green mb-4">Rp 30.000</div>
+                    <a href="https://wa.me/62895329285854" target="_blank" class="btn-neon px-6 py-2 rounded-full font-bold">Beli Sekarang</a>
+                </div>
+                <!-- Paket Optimize Via Tutor/Video (Rp 20.000) -->
+                <div class="card text-center transform hover:scale-105 transition-transform duration-300">
+                    <i class="fas fa-video text-5xl text-neon-green mb-4"></i>
+                    <h3 class="text-2xl font-bold text-gray-100 mb-3">Optimize Via Tutor/Video</h3>
+                    <p class="text-gray-400 mb-4">Panduan lengkap untuk optimasi mandiri.</p>
+                    <ul class="list-disc list-inside text-gray-300 text-left mb-6 space-y-1">
+                        <li>Bisa di semua spek PC/Laptop</li>
+                        <li>Pengerjaan mudah dan cepat</li>
+                        <li>Tidak perlu instal ulang Windows</li>
+                        <li>Bisa untuk Windows Original Microsoft</li>
+                        <li>Boost FPS semua game (Termasuk Emulator FF)</li>
+                        <li>Clear semua temporary files</li>
+                        <li>Reduce Windows Desktop Latency</li>
+                        <li>Super Optimize Regedit Tweaks</li>
+                        <li>Optimize CPU, RAM, GPU</li>
+                        <li>Ultimate Performance Mode ON</li>
+                    </ul>
+                    <div class="text-4xl font-bold text-neon-green mb-4">Rp 20.000</div>
+                    <a href="https://wa.me/62895329285854" target="_blank" class="btn-neon px-6 py-2 rounded-full font-bold">Beli Sekarang</a>
+                </div>
+            </div>
+            <!-- Perbedaan Harga Section -->
+            <div class="card mt-12 p-8 border-l-4 border-blue-500 bg-blue-900 bg-opacity-20">
+                <h3 class="text-2xl font-bold text-blue-400 mb-4"><i class="fas fa-info-circle mr-2"></i> Perbedaan Paket</h3>
+                <p class="text-gray-300 leading-relaxed">
+                    Apa bedanya paket **Rp 30.000** dengan **Rp 45.000**? Jelas beda, ada harga ada kualitas. Paket **Rp 45.000 (Full Optimize)** lebih lengkap dan menyeluruh daripada paket **Rp 30.000 (Via Remote)**, menawarkan tingkat optimasi dan jaminan peningkatan performa yang lebih maksimal.
+                </p>
+            </div>
+            <!-- Call to Action for Purchase -->
+            <div class="card mt-12 p-8 text-center bg-purple-900 bg-opacity-20 border-l-4 border-purple-500">
+                <h3 class="text-3xl font-bold text-purple-400 mb-6"><i class="fas fa-headset mr-2"></i> Siap Optimasi PC Kamu?</h3>
+                <p class="text-gray-300 text-xl mb-8">
+                    Untuk pembelian atau pertanyaan lebih lanjut, hubungi kami sekarang!
+                </p>
+                <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-8">
+                    <a href="https://www.tiktok.com/@dandaaaa5" target="_blank" class="btn-neon px-8 py-3 rounded-full text-lg font-bold flex items-center shadow-lg hover:scale-105 transition-transform duration-300">
+                        <i class="fab fa-tiktok mr-3 text-2xl"></i> DM TikTok @dandaaaa5
+                    </a>
+                    <span class="text-gray-400 text-xl font-bold hidden md:block">ATAU</span>
+                    <a href="https://wa.me/62895329285854" target="_blank" class="btn-neon px-8 py-3 rounded-full text-lg font-bold flex items-center shadow-lg hover:scale-105 transition-transform duration-300">
+                        <i class="fab fa-whatsapp mr-3 text-2xl"></i> WhatsApp: 0895329285854
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer class="bg-gray-9
